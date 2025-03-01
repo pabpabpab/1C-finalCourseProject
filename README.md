@@ -5,8 +5,9 @@ Telegram: @leha111, email: pax75@yandex.ru
 
 
 Отзыв преподавателя на одну из моих практических работ на курсе<br/>
+> код не похож на код новичка<br/>
 [blob/main/notBeginner.png](https://github.com/pabpabpab/1C-finalCourseProject/blob/main/notBeginner.png)
-> код не похож на код новичка
+
 ----------------------------------------------------------
 ----------------------------------------------------------
 <br/>
